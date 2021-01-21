@@ -10,7 +10,6 @@ Tabela de Conteúdos
 =================
 <!--ts-->
   * [Sobre o Projeto](#-sobre-o-projeto)
-  * [Funcionalidades](#-funcionalidades)
   * [Como Executar o Projeto](#-como-executar-o-projeto)
     * [Pré-requisitos](#-pré-requisitos)
     * [Rodando a Aplicação](#-rodando-a-aplicação)
