@@ -16,8 +16,8 @@ Tabela de Conteúdos
     * [Rodando a Aplicação](#-rodando-a-aplicação)
   * [Tecnologias](#-tecnologias)
     * [WebSite](#user-content-website--react----typescript)
-  *[Autor](#-autor)
-  *[Licença](#user-content-licença)
+    *[Autor](#-autor)
+    *[Licença](#user-content-licença)
 <!--te-->
 ## 💻 Sobre o projeto
 
