@@ -1,46 +1,85 @@
-# Getting Started with Create React App
+<h1 align="center">
+  Responsive Login & Registration
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">
+  Página responsiva de Login e Cadastro com animação.
+</h3>
 
-## Available Scripts
+Tabela de Conteúdos
+=================
+<!--ts-->
+  * [Sobre o Projeto](#-sobre-o-projeto)
+  * [Funcionalidades](#-funcionalidades)
+  * [Como Executar o Projeto](#-como-executar-o-projeto)
+    * [Pré-requisitos](#-pré-requisitos)
+    * [Rodando a Aplicação](#-rodando-a-aplicação)
+  * [Tecnologias](#-tecnologias)
+    * [WebSite](#user-content-website--react----typescript)
+  *[Autor](#-autor)
+  *[Licença](#user-content-licença)
+<!--te-->
+## 💻 Sobre o projeto
 
-In the project directory, you can run:
+O projeto trata-se de uma simples página de login com responsividade e animações.
 
-### `yarn start`
+O desenvolvimento deu-se com base no projeto da [True Coder](https://www.youtube.com/watch?v=piG91X4sV2U), feito em Html/CSS/JS e convertido para React a fim de treinar as habilidades.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🚀 Como executar o projeto
+O projeto é uma simples página web.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Pré-requisitos
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com),
+[Node.js](https://nodejs.org/en/).
+E um editor de texto para trabalhar com o código. Recomendo o [VSCode](https://code.visualstudio.com/)
 
-### `yarn test`
+#### 🎲 Rodando a Aplicação
+```bash
+# Clone este repositório
+$ git clone https://github.com/pablopes/signinsignup.git
+```
+```bash
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd signinsignup
+```
+```bash
+#Instale as dependências
+yarn
+```
+```bash
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+```
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Tecnologias
 
-### `yarn build`
+As seguintes ferramentas foram usadas na construção do projeto:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-   **[React Router Dom](https://reactrouter.com/web/guides/quick-start)**
+-   **[React Unform](https://unform.dev/)**
+-   **[Styled Components](https://styled-components.com/)**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🦸 Autor
+<b>Pablo Lopes</b>
 
-### `yarn eject`
+ [![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablopes/)](https://www.linkedin.com/in/pablopes/)
+[![Gmail Badge](https://img.shields.io/badge/-pablo.infolopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablo.infolopes@gmail.com)](mailto:pablo.infolopes@gmail.com)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📝 Licença
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Feito com ❤️ por Pablo Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/pablopes/)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+##  Versões do README
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Português 🇧🇷](./README.md)  |
